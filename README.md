@@ -1,4 +1,4 @@
-#Oral exams scheduling website
+# Oral exams scheduling website
 
 Teachers and students can manage easily their exam bookings with this React-based client/server website.
 Teachers can schedule different exam dates and decide which students can attend it. 
